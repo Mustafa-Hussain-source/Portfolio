@@ -1,0 +1,25 @@
+.Page3{
+    height: 100%;
+    text-align: center;
+    width: 100%;
+}
+.edu{
+    text-align: center;
+}
+.university, .College, .School {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 25px;
+    padding: 0 20rem;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+.university:hover, .College:hover, .School:hover{
+    transform: scale(110%);
+    transition: transform 0.25s ease-in-out;
+}
+@media screen and (max-width: 1000px) {
+    .university, .College, .School{
+        padding: 0;
+    }
+}

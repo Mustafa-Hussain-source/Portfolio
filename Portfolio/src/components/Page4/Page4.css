@@ -1,0 +1,21 @@
+*{
+    color: white;
+    background-color: #010523;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contact{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+}
+a img{
+    height: 100px;
+    width: 100px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
