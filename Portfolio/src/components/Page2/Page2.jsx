@@ -30,7 +30,7 @@ const Page2 = forwardRef((props, ref) => {
                 <a href="https://github.com/Mustafa-Hussain-source/Dice-game"><button>&lt; &gt; Source Code</button></a>
             </div>
             <div className="card" id="card5">
-                <h1>Description</h1>
+                <h1>Rock Paper Scissor</h1>
                 <p>The Stone Paper Scissors Game is a classic, interactive web-based game built using HTML, CSS, and JavaScript. This game lets users play against the computer, testing their luck and strategy in this timeless hand game.</p>
                 <a href="https://github.com/Mustafa-Hussain-source/Rock-Paper-game"><button>&lt; &gt; Source Code</button></a>
             </div>
