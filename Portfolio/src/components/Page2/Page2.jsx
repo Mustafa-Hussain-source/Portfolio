@@ -10,7 +10,7 @@ const Page2 = forwardRef((props, ref) => {
         <div className="cards">
             <div className="card" id="card1">
                 <h1>Drum-Kit</h1>
-                <p>The Simon Game is a web-based rendition of the classic memory challenge, developed using HTML, CSS, and JavaScript. Players are tasked with memorizing and replicating sequences of colors and sounds that become progressively more complex with each round. </p>
+                <p>The Drum Kit project is an interactive web application that emulates a virtual drum set, allowing users to play various drum sounds directly in their browser. Developed using HTML, CSS, and JavaScript, this application offers an engaging platform for users to explore rhythm and music creation.</p>
                 <a href="https://github.com/Mustafa-Hussain-source/Drum-Kit"><button>&lt;&gt; Source Code</button></a>
                 
             </div>
