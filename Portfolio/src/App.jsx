@@ -19,7 +19,7 @@ function App() {
                 <a href="#Page3">Education</a>
                     </div>
             <div className="github">
-                <a href="https://github.com/Mustafa-Hussain">GitHub</a>/<a href="https://www.linkedin.com/in/mustafa-hussain-6815672a6/">LinkedIn</a>
+                <a href="https://github.com/Mustafa-Hussain">GitHub</a>/<a href="http://www.linkedin.com/in/mustafa-hussain-b60b9534b/">LinkedIn</a>
             </div>
             
         </nav><hr />
