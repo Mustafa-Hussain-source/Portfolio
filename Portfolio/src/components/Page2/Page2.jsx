@@ -20,9 +20,9 @@ const Page2 = forwardRef((props, ref) => {
                 <a href="https://github.com/Mustafa-Hussain-source/Simon-Game"><button>&lt; &gt; Source Code</button></a>
             </div>
             <div className="card" id="card3">
-                <h1>Project 3</h1>
+                <h1>Data-Science</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima recusandae ut nihil obcaecati distinctio exercitationem maxime maiores quos libero. Rerum alias et labore animi cumque nihil porro vel culpa amet!</p>
-                <button href="#">&lt; &gt; Source Code</button>
+                <button href="https://github.com/Mustafa-Hussain-source/DataScience_Project">&lt; &gt; Source Code</button>
             </div>
             <div className="card" id="card4">
                 <h1>Project 4</h1>
