@@ -16,7 +16,7 @@ const Page2 = forwardRef((props, ref) => {
             </div>
             <div className="card" id="card2">
                 <h1>Simon-Game</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima recusandae ut nihil obcaecati distinctio exercitationem maxime maiores quos libero. Rerum alias et labore animi cumque nihil porro vel culpa amet!</p>
+                <p>The Simon Game is a web-based rendition of the classic memory challenge, developed using HTML, CSS, and JavaScript. Players are tasked with memorizing and replicating sequences of colors and sounds that become progressively more complex with each round. </p>
                 <a href="https://github.com/Mustafa-Hussain-source/Simon-Game"><button>&lt; &gt; Source Code</button></a>
             </div>
             <div className="card" id="card3">
