@@ -28,4 +28,10 @@ a img{
     .contact{
         font-size: 1.5rem;
     }
+    p{
+        font-size: 1.25rem;
+    }
+    .mail{
+        font-size: 1.25rem;
+    }
 }
