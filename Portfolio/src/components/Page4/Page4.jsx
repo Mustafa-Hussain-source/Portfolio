@@ -7,7 +7,7 @@ const Page4 = () => {
     <div className='contact'>
         <h1>Contact Me</h1>
         <p>Feel free to reach out to me at any time.</p>
-        <p>Email: <a href="mailto:mustafaHussain3030@gmail.com">mustafaHussain3030@gmail.com</a></p>
+        <p>Email: <a href="mailto:mustafaHussain3030@gmail.com" className='mail'>mustafaHussain3030@gmail.com</a></p>
         <p>Phone: <a href="mailto:+92 331-8305543">+92 331-8305543</a></p>
         <p>Github and Linkedin are also available</p>
         <a href="https://github.com/Mustafa-Hussain"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" /></a>
