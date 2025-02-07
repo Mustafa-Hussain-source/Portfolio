@@ -45,7 +45,7 @@ const Page2 = forwardRef((props, ref) => {
                 <img src="https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png" alt="" />
                 <img src="https://images.seeklogo.com/logo-png/38/2/bootstrap-5-logo-png_seeklogo-386607.png" alt="" />
                 <img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" alt="" />
-                <img src="https://banner2.cleanpng.com/20180629/eit/aaycsicwp.webp" alt="" />
+                <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="" />
                 <img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" alt="" />
             </div><br />
         </div>
