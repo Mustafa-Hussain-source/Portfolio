@@ -10,7 +10,7 @@ const Page2 = forwardRef((props, ref) => {
         <div className="cards">
             <div className="card" id="card1">
                 <h1>Drum-Kit</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima recusandae ut nihil obcaecati distinctio exercitationem maxime maiores quos libero. Rerum alias et labore animi cumque nihil porro vel culpa amet!</p>
+                <p>The Simon Game is a web-based rendition of the classic memory challenge, developed using HTML, CSS, and JavaScript. Players are tasked with memorizing and replicating sequences of colors and sounds that become progressively more complex with each round. </p>
                 <a href="https://github.com/Mustafa-Hussain-source/Drum-Kit"><button>&lt;&gt; Source Code</button></a>
                 
             </div>
