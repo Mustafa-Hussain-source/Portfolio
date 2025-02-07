@@ -21,7 +21,7 @@ const Page2 = forwardRef((props, ref) => {
             </div>
             <div className="card" id="card3">
                 <h1>Data-Science</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima recusandae ut nihil obcaecati distinctio exercitationem maxime maiores quos libero. Rerum alias et labore animi cumque nihil porro vel culpa amet!</p>
+                <p>The Data Science Project is an in-depth analysis of Netflix's movie and TV show catalog, utilizing Python and its data analysis libraries. This project aims to uncover insights into the streaming giant's content distribution, genre popularity, and release trends.</p>
                 <a href="https://github.com/Mustafa-Hussain-source/DataScience_Project"><button>&lt; &gt; Source Code</button></a>
             </div>
             <div className="card" id="card4">
